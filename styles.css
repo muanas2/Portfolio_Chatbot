@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header h1 {
+  font-size: 2.5rem;
+}
+
+header p {
+  font-size: 1.2rem;
+}
+
+#projects .card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+  margin: 0;
+}

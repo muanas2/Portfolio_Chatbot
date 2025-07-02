@@ -1,0 +1,17 @@
+{
+  "name": "Portfolio_Chatbot",
+  "version": "1.0.0",
+  "description": "Muhammed Anas Portfolio Chatbot",
+  "main": "index.js",
+  "author": "Muhammed Anas",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^13.4.0",  
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
